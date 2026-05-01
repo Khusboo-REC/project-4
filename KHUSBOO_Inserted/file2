@@ -1,0 +1,11 @@
+# Inverted Index Database
+# Format: [index]:word:file_count
+#         filename:word_count
+
+C has several basic data types including int char float and double
+Integers store whole numbers without decimal points
+Float and double store floating point numbers with decimals
+Char stores single characters enclosed in single quotes
+Arrays store multiple elements of the same data type
+Pointers store memory addresses of variables
+

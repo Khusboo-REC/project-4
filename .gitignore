@@ -1,0 +1,36 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+inverted
+inverted.exe
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+*.Zone.Identifier
+
+# Database files (optional - uncomment if you don't want to track them)
+# *.db
+# *.dat
+
+# Backup files
+*~
+*.bak
